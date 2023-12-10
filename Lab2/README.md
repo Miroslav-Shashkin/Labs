@@ -2,6 +2,7 @@ Step 1: Logging in the AWS Management Console
 ![image](https://github.com/Miroslav-Shashkin/Labs/assets/67318964/ccdb6a87-5542-4594-ae69-91bfb5b8d236)
 
 Step 2: Running Windows Server VM on Amazon EC2
+
 Launch a Windows Server Virtual Instance
 
 1.
