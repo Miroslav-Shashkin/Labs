@@ -29,10 +29,10 @@ Launch a Windows Server Virtual Instance
 8.
 ![image](https://github.com/Miroslav-Shashkin/Labs/assets/67318964/7afdfd92-6213-4935-a57f-10c21e29d7e8)
 
-9.
-![image](https://github.com/Miroslav-Shashkin/Labs/assets/67318964/725257e9-0a3a-4994-80d4-87bced8c68a3)
-
 Browse the Web Server
 
 1.
+![image](https://github.com/Miroslav-Shashkin/Labs/assets/67318964/725257e9-0a3a-4994-80d4-87bced8c68a3)
+
+![image](https://github.com/Miroslav-Shashkin/Labs/assets/67318964/96728714-8087-42f9-9fab-84ed867b0a3b)
 
