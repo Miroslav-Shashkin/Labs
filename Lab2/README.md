@@ -3,6 +3,7 @@ Step 1: Logging in the AWS Management Console
 
 Step 2: Running Windows Server VM on Amazon EC2
 Launch a Windows Server Virtual Instance
+
 1.
 ![image](https://github.com/Miroslav-Shashkin/Labs/assets/67318964/1b7e4ae0-9aeb-41e4-b7b2-6c17b78d919a)
 
@@ -31,5 +32,6 @@ Launch a Windows Server Virtual Instance
 ![image](https://github.com/Miroslav-Shashkin/Labs/assets/67318964/725257e9-0a3a-4994-80d4-87bced8c68a3)
 
 Browse the Web Server
+
 1.
 
